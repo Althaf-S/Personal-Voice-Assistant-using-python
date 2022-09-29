@@ -1,1 +1,15 @@
-This is a per
+This is a personal voice assistant developed especially for Windows OS. Why it is developed for Windows OS because it is lacking a Personal assistant like Siri and Google Assistant. Even if I am not able to make such a high performance personal assistant, I here tried to create normal personal assistant at the same time performs basic day to day works. The whole code is written in Python 3.5 programming language and hence easy to understand and I think so. This program basically provides some basic commands like "What is ur name?" or how are you and other basic functions as follows;
+1. Tells time
+2. Tells date
+3.Wikipedia searches
+4.Random jokes
+5.Read news
+6.Plays music from device
+7.Plays video in YouTube
+8.Basic device controls like Shut Down, lock, Restart
+9.Open google
+10.Locating a place in map.
+11.Write notes by inputing users voice
+
+These are the basic features of the project and also if any new commands needs to be added, the just add it using a new elif condition. Just run the program, input your command as voice and this personal assistant will provides the desired result.
+Thankyou!!!
